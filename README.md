@@ -1,4 +1,4 @@
-### A Drum Machine
+# A Drum Machine
 
 ## Built with HTML, CSS, JavaScript and Bootstrap
 
